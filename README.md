@@ -24,6 +24,7 @@ I am using windows Qt Creator (MinGW 32bit) to build.
 ## Usage: 
 
 Build them and you will see a main window pops up. Open directory, then listitems show names of sound files (.wav) in the directory. You can click file name to show its raw data and spectrogram.
+
 ![title](https://github.com/masatnk/SoundAnalysis/edit/master/soundanalysis.jpg)
 
 
