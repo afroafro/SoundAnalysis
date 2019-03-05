@@ -13,7 +13,7 @@ Folders should be set up in the parent's parent directory.
 
 ### Installation
 
-Maybe I should prepare CMake. 
+Maybe I should prepare CMake?
 
 ```
 but I am not quite sure how to do that properly
