@@ -1,5 +1,14 @@
 #include "mainwindow.h"
 
+/*!
+    \class main
+    \brief The main class executes MainWindow.
+    \since 0.0
+    \ingroup main class
+
+    \sa MainWindow, QChartViewWAV, QWidgetWAVChart
+*/
+
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
     MainWindow w;

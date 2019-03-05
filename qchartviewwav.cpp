@@ -1,5 +1,14 @@
 #include "qchartviewwav.h"
 
+/*!
+    \class QChartViewWAV
+    \brief The QChartViewWAV class inherits QChartView to show data.
+    \since 0.0
+    \ingroup main class
+
+    \sa MainWindow, QWidgetWAVChart
+*/
+
 QChartViewWAV::QChartViewWAV (QChart *chart, QWidget *parent) : QChartView(chart, parent), m_isTouching(false){
     setRubberBand(QChartView::HorizontalRubberBand);
     mouserelease_busy = false;

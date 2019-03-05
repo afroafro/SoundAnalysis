@@ -2,8 +2,6 @@
 #define QCHARTVIEWWAV_H
 
 #include "qwidgetwavchart.h" // I have to include this because I want to use the member function of this class in .cpp
-//#include <QtCharts>
-//class QWidgetWAVChart;
 
 class QChartViewWAV : public QChartView {
     public:
